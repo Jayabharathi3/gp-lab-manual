@@ -7,12 +7,12 @@ To create ammo to increase the bullet count and increase the bullet spawn count.
 
 ## Algorithm: (for adding bullet count)
 
-- **STEP-1:** Create a HUD Blueprint.  
-- **STEP-2:** Open the GameHUD Blueprint.  
-- **STEP-3:** Create a reference to the player character.  
-- **STEP-4:** Update the bullet count display.  
-- **STEP-5:** Set the GameHUD as the active HUD.  
-- **STEP-6:** Test the bullet count display.
+- 1. Create a HUD Blueprint.  
+- 2. Open the GameHUD Blueprint.  
+- 3. Create a reference to the player character.  
+- 4. Update the bullet count display.  
+- 5. Set the GameHUD as the active HUD.  
+- 6. Test the bullet count display.
 
 ## Output:
 
@@ -20,11 +20,11 @@ To create ammo to increase the bullet count and increase the bullet spawn count.
 ![image](https://github.com/user-attachments/assets/1d478690-d846-48be-b2dd-a733b6e719de)
 
 ### Event   Algorithm:
-- **STEP-1:** Create an ammo actor.
-- **STEP-2:** Set up the ammo actor.
-- **STEP-3:** Implement the player's interaction with the ammo actor.
-- **STEP-4:** Place the ammo actor in the level.
-- **STEP-5:** Test the ammo pickup functionality.
+- 1. Create an ammo actor.
+- 2. Set up the ammo actor.
+- 3. Implement the player's interaction with the ammo actor.
+- 4. Place the ammo actor in the level.
+- 5. Test the ammo pickup functionality.
 
 ## Output:
 
