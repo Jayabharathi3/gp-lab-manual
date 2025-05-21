@@ -33,6 +33,9 @@ To Change the third-person character mesh and add animations
 
 ![image](https://github.com/user-attachments/assets/0b0533ab-d763-4ccd-b5ff-0821201babc7)
 
+![image](https://github.com/user-attachments/assets/5b012f9e-f876-4278-9ddb-e17a91c56fe7)
+
+
 
 ## Result:
 Changing the third-person character mesh and adding animations is implemented Successfully
