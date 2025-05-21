@@ -40,13 +40,13 @@ properties in Unreal Engine.
 ![image](https://github.com/user-attachments/assets/f8cedde1-d1a2-4c2d-995f-dd5044ca3254)
 
 ### 2. Emissive property (glowing material):
-![image](https://github.com/user-attachments/assets/f4e7a07b-58d3-49d3-bf9f-6190af8f497a)
+![image](https://github.com/user-attachments/assets/ed99becd-5d19-45cc-9fad-7b97aefb2422)
 
 ### 3. Roughness property (matte vs shiny surfaces):
-![image](https://github.com/user-attachments/assets/a567713d-133c-487b-bc9d-9c77959c58b8)
+![image](https://github.com/user-attachments/assets/51c4ed60-92f9-4dbb-89a3-1802d04c3e4e)
 
 ### 4. Metallic property (metallic vs non-metallic appearance):
-![image](https://github.com/user-attachments/assets/806dac4a-93b5-4b01-b683-ec4199e9f3db)
+![image](https://github.com/user-attachments/assets/7beb4b5a-4b9c-4d6c-a668-83afd0ba0916)
 
 ### 5. Final Output:
 ![gp1 1](https://github.com/user-attachments/assets/020fc32f-376a-4bab-9c2d-15a4e0534ed6)
